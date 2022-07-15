@@ -1,0 +1,17 @@
+{
+    "name": "nomina/as1",
+    "description": "Final Proyect",
+    "type": "project",
+    "authors": [
+        {
+            "name": "jmazariego",
+            "email": "jmazariegosm8@miumg.edu.gt"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"App\\": "./src/private"}
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
